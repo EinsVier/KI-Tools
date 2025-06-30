@@ -169,6 +169,9 @@ Diese Übersicht zeigt dir kompakt und praxisnah die wichtigsten KI-Tools für v
 
 [→ Mehr Details zu AI für Forschung & Wissenschaft](ai_forschung_tools.md)
 
+
+ - **NotebookLM (Google):** KI-gestütztes Notiz- und Recherchetool, verbindet Dokumente, Notizen und Zusammenfassungen, ideal für wissenschaftliches Arbeiten und Wissensmanagement.
+ - **Stanford Genie/STORM:** Plattform für wissenschaftliche Datenanalyse, Simulationen und KI-gestützte Forschung, ideal für komplexe Forschungsprojekte und kollaborative Wissenschaft.
 ---
 
 ## 11. AI für Marketing & SEO
