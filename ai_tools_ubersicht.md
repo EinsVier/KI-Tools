@@ -111,18 +111,55 @@ Diese Übersicht zeigt dir kompakt und praxisnah die wichtigsten KI-Tools für v
 
 [→ Mehr Details zu AI-Coding & Low-Code](ai_coding_tools.md)
 
-- **GitHub Copilot:** Beste Code-Vervollständigung, Pair Programming, nahtlos in VS Code, für alle Entwickler.
-- **Cursor:** KI-basierter Code-Editor, ideal für komplexe Projekte & Teamarbeit.
-- **Amazon CodeWhisperer:** Für AWS-Umgebungen, unterstützt Cloud-Workflows.
-- **Tabnine:** Code-Autovervollständigung für viele Sprachen, flexibel einsetzbar.
-- **Google Gemini Code Assist:** KI-Hilfe speziell für Google Cloud, für Cloud-Entwicklung.
-- **Replit Ghostwriter:** Cloudbasierter Editor mit KI, für Einsteiger & schnelle Prototypen.
-- **AutoGen, LangChain, OpenInterpreter:** Agents für fortgeschrittene Coding-Aufgaben & Automatisierung.
 
 **Empfehlung:**
-- Für Entwickler & Teams: GitHub Copilot.
-- Für Cloud-Workflows: Gemini Code Assist, CodeWhisperer.
-- Für Einsteiger & Prototypen: Replit Ghostwriter.
+
+
+## 7. AI für Datenanalyse & Business Intelligence
+
+**Einsatzzweck:** Datenvisualisierung, Dashboards, Predictive Analytics, automatisierte Berichte
+
+[→ Mehr Details zu AI für Datenanalyse & BI](ai_datenanalyse_tools.md)
+
+---
+
+## 8. AI-Sicherheit & Ethik
+
+**Einsatzzweck:** Bias-Erkennung, Fairness, Datenschutz, Erklärbarkeit von KI
+
+[→ Mehr Details zu AI-Sicherheit & Ethik](ai_sicherheit_ethik.md)
+
+---
+
+## 9. AI im Bildungsbereich
+
+**Einsatzzweck:** Adaptive Lernsysteme, automatisierte Prüfungen, Lernfortschrittsanalyse, Content-Erstellung für Bildung
+
+[→ Mehr Details zu AI im Bildungsbereich](ai_bildung_tools.md)
+
+---
+
+## 10. AI für Forschung & Wissenschaft
+
+**Einsatzzweck:** Literaturrecherche, Paper-Zusammenfassungen, Simulationen, Datenanalyse
+
+[→ Mehr Details zu AI für Forschung & Wissenschaft](ai_forschung_tools.md)
+
+---
+
+## 11. AI für Marketing & SEO
+
+**Einsatzzweck:** Kampagnenautomatisierung, Textoptimierung, Bild- und Video-SEO, Zielgruppenanalyse
+
+[→ Mehr Details zu AI für Marketing & SEO](ai_marketing_tools.md)
+
+---
+
+## 12. AI für HR & Recruiting
+
+**Einsatzzweck:** Bewerberauswahl, CV-Analyse, Interviewbots, Mitarbeiterentwicklung
+
+[→ Mehr Details zu AI für HR & Recruiting](ai_hr_tools.md)
 
 ---
 
