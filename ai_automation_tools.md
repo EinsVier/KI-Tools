@@ -9,12 +9,12 @@ Detaillierte Darstellung von KI-gestützter Prozessautomatisierung und Agenten.
 - Tool-Integration
 
 ## Bekannte Tools & Besonderheiten
-- **Zapier AI:** No-Code, Business-Automation
-- **Microsoft Copilot Studio:** MS-Umgebungen
-- **AutoGPT, BabyAGI:** Open-Source-Agenten
-- **OpenInterpreter:** Komplexe Automatisierung
-- **ReAct, LangChain:** Multi-Agent-Workflows
-- **Taskade AI:** Aufgabenverwaltung
+- [**Zapier AI**](tools/zapier_ai.md): No-Code, Business-Automation
+- [**Microsoft Copilot Studio**](tools/microsoft_copilot_studio.md): MS-Umgebungen
+- [**AutoGPT**](tools/autogpt.md), [**BabyAGI**](tools/babyagi.md): Open-Source-Agenten
+- [**OpenInterpreter**](tools/openinterpreter.md): Komplexe Automatisierung
+- [**ReAct**](tools/react.md), [**LangChain**](tools/langchain.md): Multi-Agent-Workflows
+- [**Taskade AI**](tools/taskade_ai.md): Aufgabenverwaltung
 
 ## Praxis-Tipps
 - Zapier für No-Code

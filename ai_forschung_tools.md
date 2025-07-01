@@ -9,10 +9,10 @@ Vertiefte Übersicht zu KI-Tools für Wissenschaft, Recherche und Simulation.
 - Datenanalyse
 
 ## Bekannte Tools & Besonderheiten
-- **Semantic Scholar:** Paper-Suche
-- **Elicit:** Automatisierte Zusammenfassungen
-- **Iris.ai:** Forschungsassistent
-- **DeepL Write:** Wissenschaftliches Schreiben
+- [**Semantic Scholar**](tools/semantic_scholar.md): Paper-Suche
+- [**Elicit**](tools/elicit.md): Automatisierte Zusammenfassungen
+- [**Iris.ai**](tools/iris_ai.md): Forschungsassistent
+- [**DeepL Write**](tools/deepl_write.md): Wissenschaftliches Schreiben
 
 ## Praxis-Tipps
 - Elicit für schnelle Paper-Überblicke

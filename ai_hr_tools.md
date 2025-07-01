@@ -9,10 +9,10 @@ Vertiefte Infos zu KI-Tools für Personalmanagement, Recruiting und Bewerberausw
 - Mitarbeiterentwicklung
 
 ## Bekannte Tools & Besonderheiten
-- **HireVue:** Video-Interviews
-- **Pymetrics:** Eignungsdiagnostik
-- **Textkernel:** CV-Parsing
-- **Eightfold.ai:** Talentmanagement
+- [**HireVue**](tools/hirevue.md): Video-Interviews
+- [**Pymetrics**](tools/pymetrics.md): Eignungsdiagnostik
+- [**Textkernel**](tools/textkernel.md): CV-Parsing
+- [**Eightfold.ai**](tools/eightfold_ai.md): Talentmanagement
 
 ## Praxis-Tipps
 - HireVue für Interviews

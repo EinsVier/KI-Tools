@@ -10,12 +10,12 @@ Hier findest du eine vertiefte Übersicht zu modernen KI-Texttools und Chatbots,
 - Wissensdatenbanken
 
 ## Bekannte Tools & Besonderheiten
-- **ChatGPT (OpenAI):** Vielseitig, API, große Community, Plugins
-- **Gemini (Google):** Beste Google-Integration, Recherche
-- **Claude (Anthropic):** Datenschutz, lange Kontexte
-- **Perplexity AI:** Faktenchecks, Quellen
-- **Mistral, Llama:** Open-Source, Self-Hosting
-- **YouChat, Bing Copilot:** In Suchmaschinen integriert
+- [**ChatGPT (OpenAI)**](tools/chatgpt.md): Vielseitig, API, große Community, Plugins
+- [**Gemini (Google)**](tools/gemini.md): Beste Google-Integration, Recherche
+- [**Claude (Anthropic)**](tools/claude.md): Datenschutz, lange Kontexte
+- [**Perplexity AI**](tools/perplexity_ai.md): Faktenchecks, Quellen
+- [**Mistral**](tools/mistral.md), [**Llama**](tools/llama.md): Open-Source, Self-Hosting
+- [**YouChat**](tools/youchat.md), [**Bing Copilot**](tools/bing_copilot.md): In Suchmaschinen integriert
 
 ## Praxis-Tipps
 - Nutze ChatGPT für Content und Automatisierung

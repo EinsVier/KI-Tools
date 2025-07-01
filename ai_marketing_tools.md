@@ -9,10 +9,10 @@ Detaillierte Infos zu KI-Tools für Marketing, Kampagnen und Suchmaschinenoptimi
 - Zielgruppenanalyse
 
 ## Bekannte Tools & Besonderheiten
-- **Jasper:** KI-Texte für Marketing
-- **SurferSEO:** SEO-Optimierung
-- **AdCreative.ai:** Werbemittel-Generierung
-- **Copy.ai:** Social Media Content
+- [**Jasper**](tools/jasper.md): KI-Texte für Marketing
+- [**SurferSEO**](tools/surferseo.md): SEO-Optimierung
+- [**AdCreative.ai**](tools/adcreative_ai.md): Werbemittel-Generierung
+- [**Copy.ai**](tools/copy_ai.md): Social Media Content
 
 ## Praxis-Tipps
 - Jasper für Werbetexte

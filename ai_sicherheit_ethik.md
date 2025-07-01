@@ -9,10 +9,10 @@
 - Erklärbarkeit von KI
 
 ## Bekannte Tools & Besonderheiten
-- **Fairlearn:** Fairness-Analysen
-- **IBM AI Fairness 360:** Bias-Detection
-- **Google What-If Tool:** Modell-Transparenz
-- **OpenMined:** Privacy-Preserving AI
+- [**Fairlearn**](tools/fairlearn.md): Fairness-Analysen
+- [**IBM AI Fairness 360**](tools/ibm_ai_fairness_360.md): Bias-Detection
+- [**Google What-If Tool**](tools/google_what_if_tool.md): Modell-Transparenz
+- [**OpenMined**](tools/openmined.md): Privacy-Preserving AI
 
 ## Praxis-Tipps
 - Fairness-Checks vor Produktivgang

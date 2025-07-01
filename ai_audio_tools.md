@@ -10,12 +10,12 @@ Ausführliche Infos zu KI-Tools für Audio, Sprachsynthese, Musik und Transkript
 - Voice Cloning
 
 ## Bekannte Tools & Besonderheiten
-- **Suno AI:** Musik & Songs
-- **ElevenLabs:** Voice Cloning, viele Sprachen
-- **OpenAI Voice:** Experimentell
-- **Auphonic:** Audiobearbeitung
-- **Whisper:** Transkription
-- **Descript, Adobe Podcast:** Textbasiertes Editing
+- [**Suno AI**](tools/suno_ai.md): Musik & Songs
+- [**ElevenLabs**](tools/elevenlabs.md): Voice Cloning, viele Sprachen
+- [**OpenAI Voice**](tools/openai_voice.md): Experimentell
+- [**Auphonic**](tools/auphonic.md): Audiobearbeitung
+- [**Whisper**](tools/whisper.md): Transkription
+- [**Descript**](tools/descript.md), [**Adobe Podcast**](tools/adobe_podcast.md): Textbasiertes Editing
 
 ## Praxis-Tipps
 - ElevenLabs für professionelle Stimmen

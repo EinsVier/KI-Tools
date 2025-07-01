@@ -9,12 +9,12 @@ Vertiefte Übersicht zu KI-gestützter Videoerstellung, Editing und Animation.
 - Avatare & Animation
 
 ## Bekannte Tools & Besonderheiten
-- **Runway:** Videoeffekte, Text-zu-Video
-- **Pika Labs:** Animierte Storys
-- **Synthesia:** KI-Avatare, Sprecher
-- **HeyGen:** Voice Cloning, Mehrsprachigkeit
-- **Descript:** Editing, Transkription
-- **Kaiber, Lumen5:** Social Media Videos
+- [**Runway**](tools/runway.md): Videoeffekte, Text-zu-Video
+- [**Pika Labs**](tools/pika_labs.md): Animierte Storys
+- [**Synthesia**](tools/synthesia.md): KI-Avatare, Sprecher
+- [**HeyGen**](tools/heygen.md): Voice Cloning, Mehrsprachigkeit
+- [**Descript**](tools/descript.md): Editing, Transkription
+- [**Kaiber**](tools/kaiber.md), [**Lumen5**](tools/lumen5.md): Social Media Videos
 
 ## Praxis-Tipps
 - Runway für kreative Effekte
